@@ -1,4 +1,4 @@
-name: hello
+name: build-deploy
 on: [push]
 jobs:
   hello-job:
