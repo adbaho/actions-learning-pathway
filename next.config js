@@ -14,5 +14,9 @@ const eslintConfig = [
     },
   }),
 ]
- 
+
+module.exports = {
+  reactStrictMode: true,
+}
+
 export default eslintConfig
